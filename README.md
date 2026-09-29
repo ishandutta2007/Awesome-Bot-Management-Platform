@@ -55,9 +55,9 @@ Below is the comparative breakdown of top commercial Bot Management platforms, s
 
 ## 💻 Open-Source Bot Detection Projects
 
-Community-driven projects and open-source libraries for self-hosting, browser fingerprinting, and user-agent analysis. Sorted by **GitHub Star Count (Descending)**:
+Community-driven projects and open-source libraries for self-hosting, browser fingerprinting, and user-agent analysis. Sorted by **GitHub Stars_Count (Descending)**:
 
-| 📦 Repository | 🌟 Star Count | 📝 Description & Technical Overview |
+| 📦 Repository | 🌟 Stars_Count | 📝 Description & Technical Overview |
 | :--- | :--- | :--- |
 | **[FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)** | [![Stars](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social&color=white)](https://github.com/fingerprintjs/fingerprintjs/stargazers) | Leading browser fingerprinting library collecting 30+ DOM, canvas, and audio signals for visitor identification. |
 | **[CrowdSec](https://github.com/crowdsecurity/crowdsec)** | [![Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers) | Open-source cybersecurity engine combining crowd-sourced IP threat intelligence, proof-of-work challenges, and WAF rules. |
