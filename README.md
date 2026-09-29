@@ -55,7 +55,7 @@ Below is the comparative breakdown of top commercial Bot Management platforms, s
 
 ## 💻 Open-Source Bot Detection Projects
 
-Community-driven projects and open-source libraries for self-hosting, browser fingerprinting, and user-agent analysis. Sorted by **GitHub Stars_Count (Descending)**:
+Community-driven projects and open-source libraries for self-hosting, browser fingerprinting, and user-agent analysis. Sorted by **GitHub_Stars_Count (Descending)**:
 
 | 📦 Repository | 🌟 Stars_Count | 📝 Description & Technical Overview |
 | :--- | :--- | :--- |
